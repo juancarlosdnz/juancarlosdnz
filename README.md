@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Carlos</h1>
+<h1 align="center">Hi, I'm Juan Carlos</h1>
 <h3 align="center">I'm a NODE developer focusing on specializing in back-end. I learn game-dev in my free time </h3>
 <p align="center">🌱  I’m currently learning **TypeScript**</p>
 <p align="center">
