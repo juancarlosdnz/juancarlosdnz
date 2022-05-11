@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Juan Carlos</h1>
 <h3 align="center">I'm a NODE developer focusing on specializing in back-end. I learn game-dev in my free time </h3>
-<p align="center">🌱  I’m currently learning **TypeScript**</p>
+<p align="center">🌱  I’m currently learning TypeScript</p>
 <p align="center">
 <a href="https://linkedin.com/in/juancarlosdnz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joetancy" height="40" width="40" /></a>
 </p>
