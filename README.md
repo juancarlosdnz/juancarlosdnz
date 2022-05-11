@@ -26,5 +26,6 @@
 *Python basics  
 
 💻 Operating System: 
+
 *Windows
 *MacOSX
