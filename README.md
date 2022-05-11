@@ -17,17 +17,3 @@
  <img class="img" style="height:200px; width:410px" src="https://github-readme-stats.vercel.app/api?username=juancarlosdnz&show_icons=true&theme=radical" />
  <img class="img" style="height:200px; width:410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancarlosdnz&theme=radical&layout=compact" />
 </div>
-
-```
-💬 Programming Languages:
-
--JavaScript                    
--C# basics                                             
--Python basics  
-
-💻 Operating System: 
-
--Windows
--MacOSX
-
-```
