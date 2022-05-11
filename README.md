@@ -1,5 +1,5 @@
 <h1>Hi, I'm Juan Carlos 👨‍💻</h1>
-<h3>I'm a JavaScript developer focusing on specializing in back-end. I learn game-dev in my free time </h3>
+<h3>I'm a developer specialized on the MERN stack. I learn game-dev in my free time </h3>
 <p>🌱  I’m currently learning TypeScript</p>
 
 
