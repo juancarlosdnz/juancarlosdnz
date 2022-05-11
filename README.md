@@ -14,18 +14,15 @@
 
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" style="height:200px; width:500px" src="https://github-readme-stats.vercel.app/api?username=juancarlosdnz&show_icons=true&theme=radical" />
- <img class="img" style="height:200px; width:500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancarlosdnz&theme=radical&layout=compact" />
+ <img class="img" style="height:200px; width:300px" src="https://github-readme-stats.vercel.app/api?username=juancarlosdnz&show_icons=true&theme=radical" />
+ <img class="img" style="height:200px; width:300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancarlosdnz&theme=radical&layout=compact" />
 </div>
 
-<p align="center">
 💬 Programming Languages:
 -JavaScript                    
 -C# basics                                             
 -Python basics  
-</p>
-<p align="center">
+
 💻 Operating System: 
 -Windows
 -MacOSX
-</p>
